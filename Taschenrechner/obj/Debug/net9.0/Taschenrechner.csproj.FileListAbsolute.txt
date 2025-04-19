@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net9.0\Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net9.0\Taschenrechner.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net9.0\Taschenrechner.AssemblyInfo.cs
+C:\Users\micha\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net9.0\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Taschenrechner\Taschenrechner\bin\Debug\net9.0\Taschenrechner.exe
+C:\Users\micha\source\repos\Taschenrechner\Taschenrechner\bin\Debug\net9.0\Taschenrechner.deps.json
+C:\Users\micha\source\repos\Taschenrechner\Taschenrechner\bin\Debug\net9.0\Taschenrechner.runtimeconfig.json
+C:\Users\micha\source\repos\Taschenrechner\Taschenrechner\bin\Debug\net9.0\Taschenrechner.dll
+C:\Users\micha\source\repos\Taschenrechner\Taschenrechner\bin\Debug\net9.0\Taschenrechner.pdb
+C:\Users\micha\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net9.0\Taschenrechner.dll
+C:\Users\micha\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net9.0\refint\Taschenrechner.dll
+C:\Users\micha\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net9.0\Taschenrechner.pdb
+C:\Users\micha\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net9.0\Taschenrechner.genruntimeconfig.cache
+C:\Users\micha\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net9.0\ref\Taschenrechner.dll
